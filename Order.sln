@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Order", ".", "{DCBCD91D-1FFB-4BB7-9D49-0693BD439114}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/Order"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\Desktop\tesr\Order\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\Order\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/Order"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\Desktop\tesr\Order\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\Order\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "25637"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCBCD91D-1FFB-4BB7-9D49-0693BD439114}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCBCD91D-1FFB-4BB7-9D49-0693BD439114}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
